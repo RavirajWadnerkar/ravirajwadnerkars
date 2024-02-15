@@ -8428,6 +8428,12 @@ a.text-dark:hover {
 .portfolio-block.cv .education.group .organization {
   background-color: #20c997;
 }
+.portfolio-block.cv .skills.group .organization {
+  background-color: rgb(249,56,56);
+}
+.portfolio-block.cv .hackathons.group .organization {
+  background-color: #9b870c;
+}
 .portfolio-block.cv .group .item {
   padding-bottom: 10px;
   margin-bottom: 25px;
