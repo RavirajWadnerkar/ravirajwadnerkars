@@ -131,7 +131,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(147deg, #3994fe 0%, #3c38fd 74%);
+  /* background-image: linear-gradient(147deg, #3994fe 0%, #3c38fd 74%); */
   border-radius: 20px;
   opacity: 0.8;
 }
